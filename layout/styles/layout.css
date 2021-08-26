@@ -24,6 +24,10 @@ p{
 footer{
 	font-family: 'Roboto Condensed', sans-serif;
 }
+h1{
+	font-family: 'Roboto Condensed', sans-serif;
+}	
+}
 
 /* Rows
 --------------------------------------------------------------------------------------------------------------- */
@@ -337,7 +341,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#56AED4;}
 
 
 /* Footer */
-#footer .heading{color:#FFFFFF;}
+#footer .heading{color:#FFFFFF; font-family: 'Roboto Condensed', sans-serif;}
 #footer hr, #footer .borderedbox, #footer .linklist li{border-color:rgba(255,255,255,.1);}
 
 #footer input, #footer button{border-color:transparent;}

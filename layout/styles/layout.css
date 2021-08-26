@@ -403,6 +403,8 @@ table a, #comments a{background-color:inherit;}
 @media screen and (max-width:978px){
 	.hoc{max-width:90%;}
 
+	#h1{font-family: 'Roboto Condensed', sans-serif;}
+
 	#topbar{}
 
 	#header{}
